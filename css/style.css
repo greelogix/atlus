@@ -26,6 +26,9 @@
     color: black;
     border:1px solid white;
 }
+.atlus-demo-logo img{
+    width: 35%;
+}
 .atlus-sec{
     padding-bottom: 90px;
 }
